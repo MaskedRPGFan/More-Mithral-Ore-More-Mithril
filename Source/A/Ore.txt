@@ -1,0 +1,9 @@
+new entry "FOR_DestructibleWall_StoneMedium"
+type "Object"
+using "OBJ_Destr_Wall_Stone"
+data "Vitality" "20"
+
+new entry "FOR_DestructibleWall_StoneBig"
+type "Object"
+using "OBJ_Destr_Wall_Stone"
+data "Vitality" "30"

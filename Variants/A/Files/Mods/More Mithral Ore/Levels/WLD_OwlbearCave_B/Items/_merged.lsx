@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+
+
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="WLD_OwlbearCave_B" />
+					<attribute id="MapKey" type="FixedString" value="ea29b356-da38-4f2e-ad6b-f58090b3befb" />
+					<attribute id="Name" type="LSString" value="UNI_PUZ_MithralOre" />
+					<attribute id="TemplateName" type="FixedString" value="f65292f7-a930-48a3-a803-914da4781056" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274313" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_OwlbearCave_B" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="c786ee9c-80a7-287a-00a3-d216329dd0a8" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="35d2ddcb-162b-418f-b96b-3a6f4762483b" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="7.559003 -2.514176 40.82423" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.5113254 0 0.9114886" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+
+
+			</children>
+		</node>
+	</region>
+</save>

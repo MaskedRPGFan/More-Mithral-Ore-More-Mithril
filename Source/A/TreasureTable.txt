@@ -1,0 +1,17 @@
+new treasuretable "UND_KC_AdamantineGolem"
+CanMerge 1
+new subtable "3,1"
+object category "I_UNI_PUZ_MithralOre",1,0,0,0,0,0,0,0
+
+
+new treasuretable "UND_KC_LavaElemental"
+CanMerge 1
+new subtable "1,1"
+object category "I_UNI_PUZ_MithralOre",1,0,0,0,0,0,0,0
+
+
+new treasuretable "S_UND_MonkAmulet_Amulet_Treasure"
+new subtable "1,1"
+object category "I_UNI_PUZ_MithralOre",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Exploration_Major",1,0,0,0,0,0,0,0

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="316" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+
+
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="df5366a7-aa59-4104-9a1f-f744e8883f06" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2f163491g2ad8g4f44gaf08g4e2db7143cef" version="1" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Hostile" type="bool" value="True" />
+					<attribute id="InventoryType" type="uint8" value="14" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="Name" type="LSString" value="S_UND_MithralVein" />
+					<attribute id="Stats" type="FixedString" value="FOR_DestructibleWall_StoneBig" />
+					<attribute id="TemplateName" type="FixedString" value="3ccf592d-feca-4314-a8ad-6499232a5bed" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757762" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="53403475-3141-4317-26fa-119fe04ad9c2" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="1186705f-c239-e022-dee3-1326652f171a" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="9eb33f8c-16fb-40dd-eaf2-1d107ee4a242" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions" />
+						<node id="ScriptOverrides">
+							<children>
+								<node id="ScriptOverrides" />
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-645.9893 12.13815 252.328" />
+							<attribute id="RotationQuat" type="fvec4" value="0.4151887 0.01559154 -0.06451817 0.9073108" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ad3e65cc-7174-4ebc-8cd0-976abbe70537" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7d2d71e1g47adg4ea0g876dga7cc1a5e7523" version="1" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Hostile" type="bool" value="True" />
+					<attribute id="InventoryType" type="uint8" value="14" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="Name" type="LSString" value="S_UND_MithralVein2" />
+					<attribute id="Stats" type="FixedString" value="FOR_DestructibleWall_StoneBig" />
+					<attribute id="TemplateName" type="FixedString" value="3ccf592d-feca-4314-a8ad-6499232a5bed" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757762" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="53403475-3141-4317-26fa-119fe04ad9c2" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="1186705f-c239-e022-dee3-1326652f171a" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="9eb33f8c-16fb-40dd-eaf2-1d107ee4a242" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-555.3369 0.5636877 278.4039" />
+							<attribute id="RotationQuat" type="fvec4" value="0.6137187 0.7670733 -0.1044332 -0.1550545" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h1e364f5eg4284g46c4g9337g640488392f7e" version="1" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Key" type="FixedString" value="UND_MonkAmulet_ChestKey" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="LockDifficultyClassID" type="guid" value="ea049218-36a8-4440-fca3-01f3579a6bc8" />
+					<attribute id="MapKey" type="FixedString" value="5b55442a-cf8d-4c4b-aacd-2079f5648bd5" />
+					<attribute id="Name" type="LSString" value="S_UND_MonkAmulet_AdamantineChest" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Indestructible_Heavy" />
+					<attribute id="TemplateName" type="FixedString" value="9f61d4c0-92f0-48f5-97bc-e4b8a5482a03" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="ItemList">
+							<children>
+								<node id="Item">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="Amount" type="int32" value="1" />
+									<attribute id="CanBePickpocketed" type="bool" value="True" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="IsDroppedOnDeath" type="bool" value="True" />
+									<attribute id="IsTradable" type="uint8" value="0" />
+									<attribute id="ItemName" type="LSString" value="S_UND_MonkAmulet_Amulet" />
+									<attribute id="LevelName" type="LSString" value="WLD_Main_A" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="TemplateID" type="FixedString" value="086ae8fd-c44e-43a7-b8be-777b551a06d6" />
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="UUID" type="FixedString" value="de2ea5a9-943a-4794-9ef7-208be7747178" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="53403475-3141-4317-26fa-119fe04ad9c2" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="1186705f-c239-e022-dee3-1326652f171a" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="d1c0bf67-870e-baf1-886f-442023b06302" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-627.593 -3.292637 221.603" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9976738 0 -0.06817008" />
+							<attribute id="Scale" type="float" value="0.5" />
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="S_UND_MonkAmulet_Amulet_Treasure" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="255b1f3b-67ea-4910-a5bd-fcb92229b12c" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7d2d71e1g47adg4ea0g876dga7cc1a5e7523" version="1" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Hostile" type="bool" value="True" />
+					<attribute id="InventoryType" type="uint8" value="14" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="Name" type="LSString" value="S_UND_MithralVein2" />
+					<attribute id="TemplateName" type="FixedString" value="40692015-c16d-42a6-8ae8-5b43576927f9" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757762" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="303db700-f9db-a9ea-3a29-f33a6f06b158" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="ee2e93e4-c274-dfc3-e6e4-70536114fc63" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="6594abcb-a82c-a984-4efd-e2e9ecac30f0" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-567.0778 -9.5 -351.4654" />
+							<attribute id="RotationQuat" type="fvec4" value="0.6137187 0.7670733 -0.1044332 -0.1550545" />
+							<attribute id="Scale" type="float" value="0.5" />
+						</node>
+					</children>
+				</node>
+
+
+			</children>
+		</node>
+	</region>
+</save>
